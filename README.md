@@ -11,6 +11,7 @@ Tech Stack
 1.React(Vite)
 2.Redux-Toolkit - state management done using redux
 3.Redux Async Thunk - middleware 
+4.React Router
 4.Bootstrap - styling
 5.Javascript
 6.HTML/CSS
