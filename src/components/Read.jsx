@@ -60,9 +60,7 @@ const Read = () => {
     <div className="container py-5">
       {popup && <View id={id} popup={popup} setpopup={setpopup} />}
       <div className="main_container">
-        <h2 className="text-center mb-5 display-6 fw-bold text-primary">
-          User Management
-        </h2>
+        <h2 className="text-center mb-5">All Users</h2>
 
         <div className="radio-slider-wrapper">
           <div className="radio-slider">
