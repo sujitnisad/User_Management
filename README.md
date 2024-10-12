@@ -12,9 +12,9 @@ Tech Stack
 2.Redux-Toolkit - state management done using redux
 3.Redux Async Thunk - middleware 
 4.React Router
-4.Bootstrap - styling
-5.Javascript
-6.HTML/CSS
+5.Bootstrap - styling
+6.Javascript
+7.HTML/CSS
 
 Fully functional web app that can post data to existing Backend API, used Redux Async Thunk as middleware which helps in intracting with the backend code.
 
